@@ -235,3 +235,6 @@ This repository serves as the official landing page for ScreenHunter. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of ScreenHunter today!**
+
+---
+**Last updated:** 2026-09-12 05:11:52 UTC
