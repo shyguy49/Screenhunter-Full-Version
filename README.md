@@ -237,4 +237,4 @@ This repository serves as the official landing page for ScreenHunter. The softwa
 **Get the most recent version of ScreenHunter today!**
 
 ---
-**Last updated:** 2026-10-09 13:54:26 UTC
+**Last updated:** 2026-10-09 19:06:13 UTC
